@@ -1,0 +1,21 @@
+[1a94:0001][2024-04-01T17:15:51] Creating new ExperimentationService
+[1a94:0001][2024-04-01T17:15:51] Telemetry property VS.ABExp.Flights : lazytoolboxinit;fwlargebuffer;refactoring;spmoretempsbtn1;asloff;keybindgoldbarext;asynccsproj;vsfricheditor;completionapi;typeimportcompletion:30562486;vsttk:30514303;87ce9466:30775294;i4588376:30751670;fijh5155:30690136;8ig0d248:30783238;85ihc887:30842123;chat_aa_t:30915623;vscp_inline_gpt4_c:30966105;enablecontextinhistoryt:30979417;0604a212:30990143;gotodef_t:31006263
+[1a94:0012][2024-04-01T17:15:51] Telemetry property VS.ABExp.Flights : lazytoolboxinit;fwlargebuffer;refactoring;spmoretempsbtn1;asloff;keybindgoldbarext;asynccsproj;vsfricheditor;completionapi;typeimportcompletion:30562486;vsttk:30514303;87ce9466:30775294;i4588376:30751670;fijh5155:30690136;8ig0d248:30783238;85ihc887:30842123;chat_aa_t:30915623;control20231213:31006407;vscp_inline_gpt4_c:30966105;enablecontextinhistoryt:30979417;0604a212:30990143;gotodef_t:31006263
+[1a94:0001][2024-04-01T17:15:52] Telemetry property VS.SetupEngine.ActivityId : e71cbebd-f291-415f-ab97-8f076e6a6673
+[1a94:0001][2024-04-01T17:15:52] Telemetry property VS.SetupEngine.IsChildProcess : False
+[1a94:0001][2024-04-01T17:15:52] Telemetry property VS.SetupEngine.IsUpdateCheckOnly : True
+[1a94:0001][2024-04-01T17:15:52] BEGIN: Update Check
+[1a94:0001][2024-04-01T17:15:52] BEGIN: Check for updates
+[1a94:000a][2024-04-01T17:15:52] Telemetry property VS.SetupEngine.ChannelUpdateDisabled : False
+[1a94:0006][2024-04-01T17:15:52] Authentication Environment variable setting value: null
+[1a94:0006][2024-04-01T17:15:52] Authenticate: True
+[1a94:0018][2024-04-01T17:15:53] Download requested: https://download.visualstudio.microsoft.com/download/pr/1afa33fc-e800-4714-9e19-31b928ea2572/5f6864b70d164e746aa18e2835edcc4f6b249a81f691284b6cec14569a7be850/VisualStudio.17.Release.chman
+[1a94:0019][2024-04-01T17:15:53] Attempting download 'https://download.visualstudio.microsoft.com/download/pr/1afa33fc-e800-4714-9e19-31b928ea2572/5f6864b70d164e746aa18e2835edcc4f6b249a81f691284b6cec14569a7be850/VisualStudio.17.Release.chman' using engine 'WebClient'
+[1a94:0019][2024-04-01T17:15:53] Download of 'https://download.visualstudio.microsoft.com/download/pr/1afa33fc-e800-4714-9e19-31b928ea2572/5f6864b70d164e746aa18e2835edcc4f6b249a81f691284b6cec14569a7be850/VisualStudio.17.Release.chman' succeeded using engine 'WebClient'
+[1a94:0019][2024-04-01T17:15:53] Channel 'https://aka.ms/vs/17/release/channel' was not modified. IfModifiedSince: 3/23/2024 8:40:45 PM +00:00, LastModifiedDate: 3/23/2024 2:40:45 PM -06:00
+[1a94:0019][2024-04-01T17:15:53] Channel manifest for https://aka.ms/vs/17/release/channel is already up to date.
+[1a94:0001][2024-04-01T17:15:53] The cache manifest and downloaded manifest had the same version for instance: a1d026b4. Did not compute update information.
+[1a94:0001][2024-04-01T17:15:53] No restart manager available. Assuming no reboot required for instance state.
+[1a94:0001][2024-04-01T17:15:53] END: Check for updates
+[1a94:0001][2024-04-01T17:15:53] Update check only operation exits with code: 0
+[1a94:0001][2024-04-01T17:15:53] END: Update Check

@@ -1,0 +1,47 @@
+[2024-04-01 23:15:58.166 TraceSourceProvider I] Version: 2.2.2686.12712
+[2024-04-01 23:15:58.260 TraceSourceProvider V] Session: 4e617e0c-738a-410c-b507-51e329a504b7
+[2024-04-01 23:15:58.266 VsSolutionEventHandler V] Deriving workspace identifier from solution GUID.
+[2024-04-01 23:15:58.268 VsInstancePaths V] Attempting to search for VS install path with assembly path of: 'E:\_Applications\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PublicAssemblies'
+[2024-04-01 23:15:58.268 TraceSourceProvider V] Using VS installation path 'E:\_Applications\Program Files\Microsoft Visual Studio\2022\Community'
+[2024-04-01 23:15:58.273 TraceSourceProvider V] Setting 'CSharpRefactorings' is True
+[2024-04-01 23:15:58.273 TraceSourceProvider V] Setting 'ShowInlineDiffs' is True
+[2024-04-01 23:15:58.273 TraceSourceProvider V] Setting 'WholeLineCompletions' is True
+[2024-04-01 23:15:58.273 TraceSourceProvider V] Setting 'IntelliSenseStars' is True
+[2024-04-01 23:15:58.273 TraceSourceProvider V] Setting 'GaiaEnabled' is True
+[2024-04-01 23:15:58.273 TraceSourceProvider V] Setting 'CommitGrayTextOnRightArrowKey' is False
+[2024-04-01 23:15:58.273 TraceSourceProvider V] Setting 'WholeLineCompletionDebounceRequests' is False
+[2024-04-01 23:15:58.273 TraceSourceProvider V] Setting 'WholeLineCompletionQueuePredictionAfterReturn' is True
+[2024-04-01 23:15:58.273 TraceSourceProvider V] Setting 'SuggestionsLogging' is False
+[2024-04-01 23:15:58.273 TraceSourceProvider V] Setting 'OutputWindowLogging' is False
+[2024-04-01 23:15:58.273 TraceSourceProvider V] Setting 'IntentsQuickAction' is True
+[2024-04-01 23:15:58.273 TraceSourceProvider V] Setting 'UseInlineDiffs' is False
+[2024-04-01 23:15:58.273 TraceSourceProvider V] Setting 'EnableDiffViewDefaultForIntents' is False
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'EnableRenameIntent' is False
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'EnableRemoveParameterIntent' is False
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'ShowApplyAllInSecondaryOption' is False
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'ShowTogglePreview' is False
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'CopyPastePreview' is False
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'RefactoringsPersistence' is False
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'RefactoringsShowToolwindowGrouping' is False
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'CopyPasteQuickAction' is False
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'AdaptivePasteEnabled' is False
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'IsNeuroSymbolicEnabled' is False
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'AcceptWordOnCtrlRightArrowKey' is False
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'AllowMultipleInlinePredictions' is False
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'QueuePredictionsOnBackspace' is True
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'CachePredictionsOnLine' is True
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'PreviewTestMarginProvider' is False
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'InlineCompletionsOnCtrlSpace' is False
+[2024-04-01 23:15:58.274 TraceSourceProvider V] Setting 'EnableArm64ModelService' is True
+[2024-04-01 23:15:58.275 TraceSourceProvider V] Setting 'TruncateTrailingBraces' is False
+[2024-04-01 23:15:58.275 TraceSourceProvider V] Setting 'HideTipOnLostFocus' is True
+[2024-04-01 23:15:58.275 TraceSourceProvider V] Setting 'LogDiagnosticsForInlineCompletions' is False
+[2024-04-01 23:15:58.275 TraceSourceProvider V] Setting 'FilterAllProposalsUsingDiagnostics' is False
+[2024-04-01 23:15:58.275 TraceSourceProvider V] Setting 'SkipSemanticDiagnosticFiltering' is False
+[2024-04-01 23:15:58.275 TraceSourceProvider V] Setting 'PersistScopeHighlight' is False
+[2024-04-01 23:15:58.275 TraceSourceProvider V] Setting 'AggressiveIntelliSenseDefaults' is False
+[2024-04-01 23:15:58.275 TraceSourceProvider V] Setting 'FullMethodCallDefaults' is False
+[2024-04-01 23:15:58.275 TraceSourceProvider V] Setting 'WholeLineCompletionUseGrayToShowIntelliSense' is False
+[2024-04-01 23:15:58.275 TraceSourceProvider V] Setting 'TreatEmptyLiteralsAsEditableFields' is False
+[2024-04-01 23:15:58.275 TraceSourceProvider V] Setting 'TreatLiteralsValuesAsEditableFields' is False
+[2024-04-01 23:15:58.275 TraceSourceProvider V] Setting 'HighlightPredictionFieldsWithDistinctColors' is False
