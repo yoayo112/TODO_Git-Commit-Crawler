@@ -13,7 +13,7 @@ import discord
 
 #For now I guess just paste discord server token here when you want to run the bot. oh I guess I also need to auth github.
 
-repoPath = 'yoayo112/Change-The-Game/'
+repoPath = 'yoayo112/Change-The-Game'
 #Something like this???
 
 

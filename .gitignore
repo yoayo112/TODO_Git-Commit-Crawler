@@ -22,7 +22,7 @@ var/
 wheels/
 share/python-wheels/
 Microsoft/
-_APPLI~1/
+code/_APPLI~1/
 *.egg-info/
 .installed.cfg
 *.egg
