@@ -1,0 +1,12 @@
+app id
+1224127359209439293
+public key
+ed6f72dd9a07aeb22768dd05391a7f42b03c8a5a77e33aeef3155d1ffc3dc4d5
+invite url
+https://discord.com/oauth2/authorize?client_id=1224127359209439293&permissions=277562301440&scope=bot
+
+^^
+paste in browser and invite to server.
+
+^^
+paste in code
