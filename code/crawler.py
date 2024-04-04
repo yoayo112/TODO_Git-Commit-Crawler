@@ -4,6 +4,8 @@
 
 import requests
 from urllib.request import urlopen
+import os
+from dotenv import load_dotenv
 import json
 import discord
 
@@ -12,9 +14,9 @@ import discord
 #Cool but then how tf am I supposed to validate? -ugh google this.
 
 #For now I guess just paste discord server token here when you want to run the bot. oh I guess I also need to auth github.
-
-
-
+load_dotenv()
+discordToken = os.getenv("DISCORD_TOKEN") 
+gitToken = os.getenv("GIT_TOKEN")
 repoPath = 'yoayo112/Change-The-Game'
 ignore = ['BrushBase.cs','PaletteWindow.cs', 'TMP_TextInfoDebugTool.cs']
 #Something like this???
