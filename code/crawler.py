@@ -17,7 +17,6 @@ import discord
 load_dotenv()
 discordToken = os.getenv("DISCORD_TOKEN") 
 gitToken = os.getenv("GIT_TOKEN")
-repoPath = 'yoayo112/Change-The-Game'
 ignore = ['BrushBase.cs','PaletteWindow.cs', 'TMP_TextInfoDebugTool.cs']
 #Something like this???
 
@@ -33,8 +32,7 @@ def create_github_rawurl(url):
 
 #handles the message content and returns a response string to the async event manager
 def handle_user_messages(msg) ->str:
-    message = msg.lower() #Converts all inputs to lower case
-    if(repoPath.lower() in message):
+    if(message.author.id == 1224127359209439293): #our discord bot
 
         #ok so it sees a commit. Now for the fun part.
         
